@@ -4,9 +4,9 @@ QR generator with personal information.
 
 ## Libraries and Utilities
 
-[Python3](https://www.python.org)                                                                                      
+[python3 or higher](https://www.python.org)                                                                                      
 [qrcode](https://pypi.org/project/qrcode/)                          
-[CustomTkinter](https://libraries.io/pypi/customtkinter)                  
+[customtkinter](https://libraries.io/pypi/customtkinter)                  
 [OS](https://docs.python.org/3/library/os.html)                  
 [mysql-connector-python](https://pypi.org/project/mysql-connector-python/)
 
@@ -21,9 +21,9 @@ Make sure you have installed the libraries.
 
 Please make sure to update tests as appropriate.
 
-## Authors
+## Author
 
-Bastián Escribano                      
+- Bastián Escribano                      
 
 I did this software with academic purposes.             
      
