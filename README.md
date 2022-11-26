@@ -1,4 +1,4 @@
-# qr-generator
+# QR Generator with Python UI Tkinter - CustomTkinter
 QR generator with personal information.
 
 
