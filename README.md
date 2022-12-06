@@ -6,7 +6,7 @@ QR generator with personal information.
 
 [python3 or higher](https://www.python.org)                                                                                      
 [qrcode](https://pypi.org/project/qrcode/)                          
-[customtkinter](https://libraries.io/pypi/customtkinter)                  
+[customtkinter 4.6.3](https://libraries.io/pypi/customtkinter)  
 [os](https://docs.python.org/3/library/os.html)                  
 [mysql-connector-python](https://pypi.org/project/mysql-connector-python/)
 
