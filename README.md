@@ -15,7 +15,7 @@ QR generator with personal information.
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 Make sure you have installed the libraries.
 
-      pip install customtkinter
+      pip install customtkinter==4.6.3
       pip install mysql-connector-python
       pip install qrcode
 
